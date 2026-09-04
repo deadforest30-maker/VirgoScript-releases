@@ -1,0 +1,33 @@
+{
+  "manifest_version": 1,
+  "products": {
+    "Dimtrix": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Dimtrix_v1.0.0.rbz"
+    },
+    "Isolate": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Isolate_v1.0.0.rbz"
+    },
+    "Mirrota": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Mirrota_v1.0.0.rbz"
+    },
+    "Piemenu": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Piemenu_v1.0.0.rbz"
+    },
+    "Rectolution": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Rectolution_v1.0.0.rbz"
+    },
+    "Viewpie": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Viewpie_v1.0.0.rbz"
+    },
+    "Vstretch": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Vstretch_v1.0.0.rbz"
+    }
+  }
+}
