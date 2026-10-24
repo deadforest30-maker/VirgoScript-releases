@@ -1,6 +1,10 @@
 {
   "manifest_version": 1,
   "products": {
+    "Bevel": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Bevel_v1.0.0.rbz"
+    },
     "Dimtrix": {
       "version": "1.0.0",
       "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Dimtrix_v1.0.0.rbz"
