@@ -44,6 +44,10 @@
     "Vstretch": {
       "version": "1.0.0",
       "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Vstretch_v1.0.0.rbz"
+    },
+    "Essence": {
+      "version": "1.0.0",
+      "url": "https://github.com/deadforest30-maker/VirgoScript-releases/releases/download/v1.0.0/VirgoScript_Essence_v1.0.0.rbz"
     }
   }
 }
